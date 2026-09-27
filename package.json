@@ -1,0 +1,15 @@
+{
+  "name": "courtlistener-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "US court opinions, dockets, and case law as structured JSON. Python, Node.js and cURL clients for the CourtListener Scraper on Apify, pay per result.",
+  "main": "courtlistener_scraper.mjs",
+  "scripts": {
+    "start": "node courtlistener_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/courtlistener-court-records/"
+}
