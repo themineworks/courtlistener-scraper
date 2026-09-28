@@ -5,7 +5,7 @@ Search US federal and state court opinions, dockets, and case law from CourtList
 **Run it on Apify:** [apify.com/themineworks/courtlistener-court-records](https://apify.com/themineworks/courtlistener-court-records)
 **Docs, FAQ and pricing:** [themineworks.com/actors/courtlistener-court-records](https://themineworks.com/actors/courtlistener-court-records/)
 
-**Price:** $1.00 per 1,000 records on Apify's free plan, down to $0.60 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $0.60 per 1,000 records on Apify's higher plans ($1.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Search US federal and state court opinions, dockets, and case law from CourtList
 * Case name, court, judge, and citation data
 * Full-text search across millions of decisions
 * Direct links to source documents
-* Zero charge on empty searches
+* Empty results are never charged
 
 ## Quick start
 
@@ -145,7 +145,7 @@ Three main entities: Docket (a case with all its filings), Cluster (a group of r
 
 ### How much does the CourtListener Scraper cost?
 
-$1.00 per 1,000 records on Apify's free plan, down to $0.60 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $0.60 per 1,000 records on Apify's higher plans ($1.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
